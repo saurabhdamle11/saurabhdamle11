@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurabh. I am a Data Science graduate from Indiana University Bloomington.
+- 👋 Hi, I’m Saurabh. I am a Software Developer with expertise in Distributed Systems and Systems Engineering.
 - Reach out to me on saurabhdamle8@gmail.com
 - Check out my portfolio on https://saurabhdamle11.github.io/
 <!---
